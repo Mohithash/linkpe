@@ -4,7 +4,8 @@
   "description": "will describe later",
   "main": "index.html",
   "scripts": {
-    "start": "node server.js 8081"
+    "start": "node server.js 8081",
+    "build": "echo 'Build complete - static site ready'"
   },
   "repository": {
     "type": "git",
